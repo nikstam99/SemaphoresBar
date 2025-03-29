@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "shared_mem_init.h": "c",
+        "table.h": "c"
+    }
+}
